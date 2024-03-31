@@ -1,0 +1,5 @@
+set_property SRC_FILE_INFO {cfile:/home/ivan/.local/src/zynq/blink/blink.srcs/constrs_1/new/blink.xdc rfile:../../../blink.srcs/constrs_1/new/blink.xdc id:1} [current_design]
+set_property src_info {type:XDC file:1 line:6 export:INPUT save:INPUT read:READ} [current_design]
+set_property PACKAGE_PIN M19 [get_ports {clk}]
+set_property src_info {type:XDC file:1 line:7 export:INPUT save:INPUT read:READ} [current_design]
+set_property PACKAGE_PIN P22 [get_ports {led_d3}]
